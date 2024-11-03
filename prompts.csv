@@ -1,0 +1,501 @@
+﻿Countries,North Korea
+Countries,South Korea
+Countries,Italy
+Countries,Spain
+Countries,Canada
+Countries,United Kingdom
+Countries,Japan
+Countries,USA
+Countries,Brazil
+Countries,Greece
+Countries,France
+Countries,Mexico
+Countries,China
+Countries,India
+Countries,Russia
+Countries,Australia
+Countries,Germany
+Countries,Israel
+Countries,Palestine
+Countries,Ukraine
+Countries,Afghanistan
+Countries,Iraq
+Countries,Iran
+Countries,UAE
+Cities,Austin
+Cities,New York City
+Cities,Los Angeles
+Cities,Las Vegas
+Cities,Houston
+Cities,Tokyo
+Cities,Shanghai
+Cities,Beijing
+Cities,Chicago
+Cities,Seoul
+Cities,Dubai
+Cities,London
+Cities,Paris
+Cities,Madrid
+Cities,Rome
+Cities,Boston
+Cities,Moscow
+Cities,Toronto
+Cities,Rio de Janeiro
+Cities,Berlin
+Cities,Athens
+Cities,Singapore
+Foods,Cheese
+Foods,Pizza
+Foods,Pasta
+Foods,Burgers
+Foods,Mac and Cheese
+Foods,Hot Dogs
+Foods,Barbeque
+Foods,Rice
+Foods,Eggs
+Foods,Chocolate
+Foods,Potatoes
+Foods,Tacos
+Foods,Tex-Mex
+Foods,Sushi
+Foods,Hotpot
+Foods,Noodles
+Foods,Dumplings
+Foods,Chicken Wings
+Foods,Nachos
+Foods,Caesar Salad
+Foods,Chili
+Foods,Hummus
+Foods,Bread
+Foods,Donuts
+Foods,Pie
+Foods,Fries
+Foods,Onion Rings
+Foods,Tikka Masala
+Foods,Vodka
+Foods,Water
+Foods,Milkshake
+Foods,Boba
+Foods,Sprite
+Foods,Coke
+Foods,Lemonade
+Foods,Tea
+Foods,Matcha
+Foods,Hot Chocolate
+Foods,Smoothie
+Foods,Fanta
+Foods,Apple Juice
+Foods,Orange Juice
+Foods,Coffee
+Foods,Gatorade
+Body Parts,Left Eye
+Body Parts,Right Eye
+Body Parts,Left Ear
+Body Parts,Right Ear
+Body Parts,Hair Strand
+Body Parts,Right Hand
+Body Parts,Left Hand
+Body Parts,Nostrils
+Body Parts,Left Pinkie Toe
+Body Parts,Right Big Toe
+Body Parts,Left Elbow
+Body Parts,Right Elbow
+Body Parts,Tongue
+Body Parts,Kidney
+Body Parts,Liver
+Body Parts,Stomach
+Body Parts,Adam's Apple
+Body Parts,Left Heel
+Body Parts,Right Heel
+Body Parts,Left Wrist
+Body Parts,Right Wrist
+Body Parts,Gallbladder
+Body Parts,Left Femur
+Body Parts,Right Femur
+Body Parts,Appendix
+Compounds,Oxygen
+Compounds,Carbon Dioxide
+Compounds,Caffeine
+Compounds,Salt
+Compounds,Sugar
+Compounds,Bleach
+Compounds,Acetone
+Compounds,Vinegar
+Compounds,Brass
+Compounds,Steel
+Compounds,Iron
+Compounds,Aluminium
+Compounds,Copper
+Compounds,Bronze
+Compounds,Plastic
+Compounds,Ozone
+Compounds,Methane
+Compounds,Ethanol
+Compounds,Baking Soda
+Compounds,Petroleum
+People,Donald Trump
+People,Kamala Harris
+People,Kim Jong Un
+People,Mao Zedong
+People,Xi Jingping
+People,Barack Obama
+People,Joe Biden
+People,P Diddy
+People,Mr. Beast
+People,Jay Hartzell
+People,LeBron James
+People,Shohei Ohtani
+People,Tom Brady
+People,Arch Manning
+People,Eminem
+People,Queen Elizabeth II
+People,Johnny Depp
+People,LE SSERAFIM
+People,Taylor Swift
+People,Pewdiepie
+People,Faker
+People,TenZ
+People,Albert Einstein
+People,Isaac Newton
+People,MLK
+People,Leonardo DiCaprio
+People,Jackie Chan
+People,Mark Zuckerberg
+People,Elon Musk
+People,Adam Sandler
+People,The Rock
+People,Kanye West
+People,Kobe Bryant
+People,Michael Jordan
+People,Lady Gaga
+People,Oprah Winfrey
+People,Tom Cruise
+People,Kim Kardashian
+People,Adolf Hitler
+People,Joseph Stalin
+People,Vladimir Putin
+People,Saddam Hussain
+People,J Robert Oppenheimer
+People,NewJeans
+Apps,Minecraft
+Apps,Subway Surfers
+Apps,League of Legends
+Apps,Valorant
+Apps,Spotify
+Apps,Excel
+Apps,Word
+Apps,MS Paint
+Apps,Zoom
+Apps,Chrome
+Apps,Safari
+Apps,WeChat
+Apps,Discord
+Apps,Fortnite
+Apps,Roblox
+Apps,GTA
+Apps,Photos
+Apps,WhatsApp
+Apps,Instagram
+Apps,Snapchat
+Apps,Tiktok
+Apps,Twitter/X
+Apps,Reddit
+Apps,Facebook
+Apps,Youtube
+Apps,Calculator
+Apps,Mail
+Apps,Netflix
+Apps,Geometry Dash
+Apps,Slack
+Apps,Clock
+Apps,Pokemon Go
+Sports,Soccer/Football
+Sports,American Football
+Sports,Tennis
+Sports,Table Tennis
+Sports,Baseball
+Sports,Badminton
+Sports,Basketball
+Sports,Swimming
+Sports,Track
+Sports,Cross Country
+Sports,Triathlon
+Sports,Volleyball
+Sports,Softball
+Sports,Cricket
+Sports,Boxing
+Sports,Archery
+Sports,Squash
+Sports,Figure Skating
+Sports,Martial Arts
+Sports,Dodgeball
+Sports,Motorsports
+Sports,Golf
+Sports,Spikeball
+Sports,Hockey
+Sports,Skateboarding
+Sports,Surfing
+Sports,Bowling
+Sports,Curling
+Sports,Climbing
+Sports,Cycling
+Sports,Ultimate Frisbee
+Sports,Gymnastics
+Sports,Ballet
+Sports,Cheerleading
+Subjects,Calculus
+Subjects,Physics
+Subjects,Biology
+Subjects,History
+Subjects,Geography
+Subjects,Astronomy
+Subjects,Chemistry
+Subjects,Philosophy
+Subjects,Gender Studies
+Subjects,Psychology
+Subjects,Poltical Science
+Subjects,English
+Subjects,Algebra
+Subjects,Computer Science
+Subjects,Music
+Subjects,Economics
+Subjects,Art
+Subjects,Communications
+Subjects,Geometry
+Common Objects,Pencil
+Common Objects,Pen
+Common Objects,Eraser
+Common Objects,Sock
+Common Objects,Shoe
+Common Objects,Headphones
+Common Objects,Laptop
+Common Objects,Lanyard
+Common Objects,Shorts
+Common Objects,Hoodie
+Common Objects,Highlighter
+Common Objects,Shirt
+Common Objects,Phone
+Common Objects,Bracelet
+Common Objects,Keys
+Common Objects,Loofah
+Common Objects,Toothbrush
+Common Objects,Glasses
+Common Objects,Shampoo
+Common Objects,Water Bottle
+Common Objects,Spoon
+Common Objects,Pillow
+Common Objects,Pot
+Common Objects,Trash Can
+Common Objects,Bowl
+Common Objects,Cup
+Common Objects,Sofa
+Common Objects,Chair
+Common Objects,Book
+Common Objects,Backpack
+Common Objects,Paper
+Common Objects,Notebook
+Common Objects,Watch
+TV Shows,Squid Game
+TV Shows,Arcane
+TV Shows,The Boys
+TV Shows,Stranger Things
+TV Shows,Breaking Bad
+TV Shows,Game of Thrones
+TV Shows,The Office
+TV Shows,Friends
+TV Shows,Dragonball
+TV Shows,Naruto
+TV Shows,One Piece
+TV Shows,Grey's Anatomy
+TV Shows,Suits
+TV Shows,Criminal Minds
+TV Shows,The Walking Dead
+TV Shows,The Twilight Zone
+TV Shows,The Simpsons
+TV Shows,Riverdale
+TV Shows,Sherlock
+TV Shows,The Vampire Diaries
+TV Shows,The Big Bang Theory
+TV Shows,Money Heist
+TV Shows,Supernatural
+TV Shows,Gossip Girl
+TV Shows,Wild Kratts
+TV Shows,Sesame Street
+TV Shows,My Little Pony
+TV Shows,Avatar: The Last Airbender
+TV Shows,The Powerpuff Girls
+TV Shows,SpongeBob Square Pants
+TV Shows,Dora the Explorer
+TV Shows,Peppa Pig
+TV Shows,Pokemon
+TV Shows,Thomas the Train
+Movies/Movie Franchises,Despicable Me
+Movies/Movie Franchises,Godzilla
+Movies/Movie Franchises,Batman
+Movies/Movie Franchises,Wizard of Oz
+Movies/Movie Franchises,Jaws
+Movies/Movie Franchises,Star Wars
+Movies/Movie Franchises,Avengers
+Movies/Movie Franchises,The Justice League
+Movies/Movie Franchises,Jurassic Park
+Movies/Movie Franchises,Toy Story
+Movies/Movie Franchises,Cars
+Movies/Movie Franchises,Monsters Inc
+Movies/Movie Franchises,The Lion King
+Movies/Movie Franchises,Frozen
+Movies/Movie Franchises,Home Alone
+Movies/Movie Franchises,The Polar Express
+Movies/Movie Franchises,Aladdin
+Movies/Movie Franchises,Shrek
+Movies/Movie Franchises,Avatar
+Movies/Movie Franchises,Harry Potter
+Movies/Movie Franchises,Lord of the Rings
+Movies/Movie Franchises,The Joker
+Movies/Movie Franchises,The Godfather
+Movies/Movie Franchises,Oppenheimer
+Movies/Movie Franchises,Barbie
+Movies/Movie Franchises,Inception
+Movies/Movie Franchises,Interstellar
+Movies/Movie Franchises,Titanic
+Movies/Movie Franchises,Spiderman
+Movies/Movie Franchises,Pirates of the Caribbean
+Movies/Movie Franchises,Deadpool
+Movies/Movie Franchises,Whiplash
+Movies/Movie Franchises,The Shining
+Movies/Movie Franchises,Kungfu Panda
+Movies/Movie Franchises,Mean Girls
+Movies/Movie Franchises,X-Men
+Movies/Movie Franchises,The Matrix
+Movies/Movie Franchises,Finding Nemo
+Movies/Movie Franchises,Indiana Jones
+Movies/Movie Franchises,Mission Impossible
+Movies/Movie Franchises,Fast and Furious
+Movies/Movie Franchises,The Lego Movie
+Movies/Movie Franchises,The Incredibles
+Movies/Movie Franchises,Transformers
+Movies/Movie Franchises,Zootopia
+Movies/Movie Franchises,The Jungle Book
+Movies/Movie Franchises,Jumanji
+Movies/Movie Franchises,Ice Age
+Movies/Movie Franchises,The Hunger Games
+Movies/Movie Franchises,Guardians of the Galaxy
+Movies/Movie Franchises,Venom
+Movies/Movie Franchises,Inside Out
+Movies/Movie Franchises,Wonder Woman
+Movies/Movie Franchises,Superman
+Movies/Movie Franchises,Coco
+Movies/Movie Franchises,The Chronicles of Narnia
+Movies/Movie Franchises,Dune
+Movies/Movie Franchises,Big Hero 6
+Movies/Movie Franchises,Wonka
+Movies/Movie Franchises,Moana
+Occupations,Architect
+Occupations,Chef
+Occupations,Teacher
+Occupations,Pilot
+Occupations,Doctor
+Occupations,Scientist
+Occupations,Librarian
+Occupations,Engineer
+Occupations,Dentist
+Occupations,Veterinarian
+Occupations,Artist
+Occupations,Musician
+Occupations,Farmer
+Occupations,Firefighter
+Occupations,Lawyer
+Occupations,Judge
+Occupations,Nurse
+Occupations,Photographer
+Occupations,Plumber
+Occupations,Electrician
+Occupations,Accountant
+Occupations,Astronaut
+Occupations,Journalist
+Occupations,Police Officer
+Occupations,Psychologist
+Occupations,Writer
+Occupations,Mechanic
+Occupations,Pharmacist
+Occupations,Fashion Designer
+Occupations,Carpenter
+Occupations,Social Worker
+Occupations,Translator
+Occupations,Real Estate Agent
+Occupations,Geologist
+Occupations,Flight Attendant
+Occupations,Actor
+Occupations,Software Developer
+Occupations,Barista
+Occupations,Zookeeper
+Occupations,Forensic Scientist
+Occupations,Marketing Specialist
+Occupations,Economist
+Occupations,Paramedic
+Occupations,Graphic Designer
+Occupations,Interior Designer
+Occupations,Speech Therapist
+Occupations,Personal Trainer
+Occupations,Athlete
+Occupations,Biochemist
+Occupations,Meteorologist
+Occupations,Historian
+Occupations,Bus Driver
+Occupations,Biologist
+Occupations,Event Planner
+Occupations,Financial Analyst
+Occupations,Taxi Driver
+Occupations,Archaeologist
+Occupations,Politician
+Occupations,Construction Worker
+Occupations,Dancer
+Animals,Elephant
+Animals,Lion
+Animals,Giraffe
+Animals,Kangaroo
+Animals,Panda
+Animals,Dolphin
+Animals,Koala
+Animals,Tiger
+Animals,Bat
+Animals,Squirrel
+Animals,Eagle
+Animals,Penguin
+Animals,Parrot
+Animals,Owl
+Animals,Flamingo
+Animals,Hummingbird
+Animals,Peacock
+Animals,Vulture
+Animals,Sparrow
+Animals,Swan
+Animals,Shark
+Animals,Goldfish
+Animals,Salmon
+Animals,Clownfish
+Animals,Stingray
+Animals,Tuna
+Animals,Swordfish
+Animals,Pufferfish
+Animals,Eel
+Animals,Seahorse
+Animals,Crocodile
+Animals,Snake
+Animals,Chameleon
+Animals,Turtle
+Animals,Frog
+Animals,Lizard
+Animals,Gecko
+Animals,Newt
+Animals,Alligator
+Animals,Iguana
+Animals,Butterfly
+Animals,Bee
+Animals,Spider
+Animals,Ant
+Animals,Ladybug
+Animals,Jellyfish
+Animals,Octopus
+Animals,Snail
+Animals,Crab
+Animals,Lobster
